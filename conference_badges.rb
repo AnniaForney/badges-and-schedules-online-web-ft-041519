@@ -12,5 +12,5 @@ end
   end 
   
   def batch_badge_creator(messages, rooms) do 
-    puts batch_badge_creator
+    puts batch_badge_creator.inspect
   end 
