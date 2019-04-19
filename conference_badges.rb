@@ -12,7 +12,5 @@ end
   end 
   
   def batch_badge_creator(messages, rooms) do 
-    x = 1 
-    rooms 1 < 7 
-
+    puts batch_badge_creator
   end 
