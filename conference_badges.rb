@@ -1,3 +1,7 @@
 # Write your code here.
-badge_maker ("Annia")
+def badge_maker ("Annia")
 => "Hello, my name is Annia."
+end
+
+def batch_badge_creator do 
+  
